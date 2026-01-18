@@ -1,0 +1,11 @@
+UserID,Nome,Idade,Saldo,Status,Mensagem_Marketing
+1,João Silva,28,5000.0,Ativo,"João Silva, seu saldo de R$ 5000.00 pode render mais! Conheça nossos investimentos."
+2,Maria Oliveira,35,150.5,Ativo,"Maria Oliveira, que tal um cartão de crédito para facilitar suas compras?"
+3,Carlos Souza,42,0.0,Inativo,"Oi Carlos Souza, estamos com saudade! Reative sua conta e ganhe benefícios."
+4,Ana Lima,22,12000.0,Ativo,"Ana Lima, seu saldo de R$ 12000.00 pode render mais! Conheça nossos investimentos."
+5,Fernanda Santos,55,-500.0,Ativo,"Fernanda Santos, que tal um cartão de crédito para facilitar suas compras?"
+6,Paulo Costa,19,2000.0,Ativo,"Paulo Costa, que tal um cartão de crédito para facilitar suas compras?"
+7,Beatriz Rocha,30,50000.0,Inativo,"Oi Beatriz Rocha, estamos com saudade! Reative sua conta e ganhe benefícios."
+8,Lucas Moreira,25,100.0,Ativo,"Lucas Moreira, que tal um cartão de crédito para facilitar suas compras?"
+9,Roberto Almeida,60,3500.0,Ativo,"Roberto Almeida, seu saldo de R$ 3500.00 pode render mais! Conheça nossos investimentos."
+10,Juliana Mendes,29,50.0,Ativo,"Juliana Mendes, que tal um cartão de crédito para facilitar suas compras?"

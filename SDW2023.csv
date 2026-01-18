@@ -1,4 +1,11 @@
-UserID,Nome,Segmento
-1,João Silva,Investidor
-2,Maria Oliveira,Crédito
-3,Carlos Souza,Padrão
+UserID,Nome,Idade,Saldo,Status
+1,João Silva,28,5000.00,Ativo
+2,Maria Oliveira,35,150.50,Ativo
+3,Carlos Souza,42,0.00,Inativo
+4,Ana Lima,22,12000.00,Ativo
+5,Fernanda Santos,55,-500.00,Ativo
+6,Paulo Costa,19,2000.00,Ativo
+7,Beatriz Rocha,30,50000.00,Inativo
+8,Lucas Moreira,25,100.00,Ativo
+9,Roberto Almeida,60,3500.00,Ativo
+10,Juliana Mendes,29,50.00,Ativo
